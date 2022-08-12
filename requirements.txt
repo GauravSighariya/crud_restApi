@@ -22,7 +22,6 @@ drf-yasg==1.21.3
 env==0.1.0
 et-xmlfile==1.1.0
 filelock==3.4.2
-GDAL @ file:///C:/Users/HP/pipwin/GDAL-3.4.3-cp310-cp310-win_amd64.whl
 idna==3.3
 inflection==0.5.1
 itypes==1.2.0
@@ -31,8 +30,6 @@ Js2Py==0.71
 Markdown==3.3.6
 MarkupSafe==2.1.1
 mysqlclient==2.1.1
-numpy==1.22.4
-openai==0.20.0
 openpyxl==3.0.10
 packaging==21.3
 pandas==1.4.2
