@@ -1,0 +1,198 @@
+[
+    { "model": "product_api.category", "pk": 1, "fields": { "name": "Company" } },
+    {
+      "model": "product_api.Product",
+      "pk": 1,
+      "fields": {
+        "name": "ALCATEL",
+        "slug": "ALCATEL",
+        "description": "1 1/8GB Bluish Black (5033D-2JALUAA)",
+        "picture": "products/images/Apricot_globemallow.jpg",
+        "price": "1690",
+        "quantity": 38,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 2,
+      "fields": {
+        "name": "Nokia",
+        "slug": "Nokia",
+        "description": "105 Dual Sim 2019 Black (16KIGB01A01)",
+        "picture": "products/images/Cone_Peak_Bedstraw.jpg",
+        "price": "6010",
+        "quantity": 97,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 3,
+      "fields": {
+        "name": "ZTE",
+        "slug": "ZTE",
+        "description": "nubia Red Magic 5G 8/128GB Black",
+        "picture": "products/images/Blutaparon.jpg",
+        "price": "7520",
+        "quantity": 10,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 4,
+      "fields": {
+        "name": "Chamisso Sedge",
+        "slug": "chamisso-sedge",
+        "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+        "picture": "products/images/Chamisso_Sedge.jpeg",
+        "price": "8.80",
+        "quantity": 17,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 5,
+      "fields": {
+        "name": "HUAWEI",
+        "slug": "HUAWEI",
+        "description": "nova 5T 6/128GB Black (51094MEU)",
+        "picture": "products/images/Marsh_Straw_Sedge.jpg",
+        "price": "17210",
+        "quantity": 91,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 6,
+      "fields": {
+        "name": "ASUS",
+        "slug": "ASUS",
+        "description": "Zenfone 5 ZE620KL 4/64GB Blue (ZE620KL-1A012WW)",
+        "picture": "products/images/Largeflower_False_Rosemary.jpg",
+        "price": "8046",
+        "quantity": 96,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 7,
+      "fields": {
+        "name": "Apple",
+        "slug": "Apple",
+        "description": "iPhone XS Max Dual Sim 64GB Gold (MT732).",
+        "picture": "products/images/Oregon_Bleeding_Heart.jpg",
+        "price": "39031",
+        "quantity": 43,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 8,
+      "fields": {
+        "name": "Sony",
+        "slug": "Sony",
+        "description": "Xperia 1 II XQ-AT52 12/256GB Mirror Lake Green",
+        "picture": "products/images/Pore_Lichen.jpg",
+        "price": "6080",
+        "quantity": 14,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 9,
+      "fields": {
+        "name": "realme",
+        "slug": "realme",
+        "description": "X50 5G 6/128GB Jungle Green",
+        "picture": "products/images/chinese_haw.jpg",
+        "price": "10072",
+        "quantity": 67,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 10,
+      "fields": {
+        "name": "LG",
+        "slug": "LG",
+        "description": "X Screen 16GB Single K500n White",
+        "picture": "products/images/Toringo_Crab.jpg",
+        "price": "23086",
+        "quantity": 59,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 11,
+      "fields": {
+        "name": "Tecno",
+        "slug": "Tecno",
+        "description": "Spark 4 Lite 2/32GB Midnight Black (4895180754593)",
+        "picture": "products/images/Kauai_Hau_Kuahiwi.jpg",
+        "price": "20038",
+        "quantity": 87,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 12,
+      "fields": {
+        "name": "Xiaomi",
+        "slug": "Xiaomi",
+        "description": "Redmi Note 9T 4/64GB Daybreak Purple",
+        "picture": "products/images/Pygmy_Goldenweed.jpeg",
+        "price": "32075",
+        "quantity": 48,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 13,
+      "fields": {
+        "name": "Motorola",
+        "slug": "Motorola",
+        "description": "One XT1941-4 4/64GB Dual Sim Black",
+        "picture": "products/images/Red-vein_Yellow_Loosestrife.jpg",
+        "price": "33014",
+        "quantity": 12,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 14,
+      "fields": {
+        "name": "OnePlus",
+        "slug": "OnePlus",
+        "description": "Nord N10 5G 6/128GB Midnight Ice",
+        "picture": "products/images/Isachne.jpg",
+        "price": "9033",
+        "quantity": 66,
+        "category": [1]
+      }
+    },
+    {
+      "model": "product_api.Product",
+      "pk": 15,
+      "fields": {
+        "name": "Fly",
+        "slug": "Fly",
+        "description": "FF281 Dual Sim (Black)",
+        "picture": "products/images/Santo_Domingo_False_Willow.jpg",
+        "price": "8055",
+        "quantity": 10,
+        "category": [1]
+      }
+    }
+  ]
